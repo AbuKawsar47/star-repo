@@ -1,0 +1,29 @@
+.news {
+    background-color: bisque;
+    padding: 20px 30px;
+    width: 50%;
+    margin: 50px auto;
+}
+.heading{
+    text-align: center;
+}
+.heading h2 {
+    font-size: 35px;
+    margin: 0;
+}
+.heading h1 {
+    font-size: 50px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.heading h3 {
+    font-size: 22px;
+    margin: 0;
+}
+.heading img {
+    width: 100%;
+}
+.news p{
+    font-size: 20px;
+    text-align: justify;
+}
